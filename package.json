@@ -1,0 +1,8 @@
+{
+  "name": "react-native-floating-bubble",
+  "version": "1.0.0",
+  "main": "library/index.js",
+  "repository": "https://github.com/drminh2807/react-native-floating-bubble.git",
+  "author": "Minh DrMinh <drminh2807@gmail.com>",
+  "license": "MIT"
+}
